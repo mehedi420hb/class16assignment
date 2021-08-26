@@ -1,0 +1,158 @@
+.header {
+    background-color: #1c1446;
+}
+
+.logo {
+    width: 84px;
+}
+
+.logo img {
+    max-width: 100%;
+    display: inline-block;
+    margin: 10px 0;
+}
+
+.menu {
+    text-align: right;
+}
+
+.menu ul {}
+
+.menu ul li {
+    display: inline-block;
+}
+
+.menu ul li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: inline-block;
+    padding: 19px 19px;
+    font-size: 20px;
+    line-height: 19px;
+}
+
+.banner {
+    background-image: url(https://i.postimg.cc/XYmgpg8D/intro-bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding: 396px 0;
+    background-attachment: fixed;
+
+}
+
+span {}
+
+.banner-b a {
+    border-radius: 5px;
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(13, 106, 182);
+    padding: 10px 20px;
+}
+
+.meet {
+    background-color: #8684e69e;
+}
+
+.colam {}
+
+.first {
+
+
+
+    text-align: center;
+}
+
+.first img {
+
+    max-width: 100%;
+}
+
+.first .name {}
+
+.first p {
+    width: 200px;
+    margin: auto;
+    padding: 0 4px;
+
+}
+
+.go a {
+    text-decoration: none;
+    padding: 7px 9px;
+    background-color: rgb(13, 106, 182);
+    display: inline-block;
+    color: white;
+    margin-top: 12px;
+    border-radius: 5px;
+}
+
+.about {
+    background-color: #c7d1e8;
+}
+
+.about {}
+
+.about img {
+    margin-left: 10px;
+}
+
+.about ul {
+    list-style: none;
+}
+
+.about ul li {
+    line-height: 35px;
+}
+
+.hedding-about {
+    font-size: 45px;
+}
+
+
+.conact-us {
+    background-color: #f5f5f5;
+}
+
+.form-title {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 0;
+
+}
+
+input[type="text"],
+input[type="email"] {
+    width: 418px;
+    padding: 0px 6px;
+}
+
+#masage {
+    width: 418px;
+    height: 100px;
+}
+
+#sbtn {
+    background-color: rgb(32, 182, 228);
+    color: #ffffff;
+    padding: 5px 15px;
+    border-radius: 3px;
+    border: none;
+}
+
+.footer {
+    background-color: #4455cc;
+}
+
+.footer-text {
+
+    padding: 11px 0;
+
+    color: white;
+
+    line-height: 20px;
+
+    margin-bottom: 0;
+}
